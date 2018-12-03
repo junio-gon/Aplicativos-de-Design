@@ -1,0 +1,43 @@
+01. Pressione Ctrl+N para criar um novo documento, defina os valores (800 x 600) e pressione Ok.
+
+02. Escolha a cor #9a9797 abaixo e pressione Alt+Backspace (a tecla acima do Enter) ou pressione a letra G do teclado para selecionar a Paint Bucket Tool e clique no documento para preencher a layer com a cor escolhida.
+
+03. Pressione a letra U do teclado para selecionar a Rounded Rectangle Tool, defina o valor de 8 pixels para o campo Radius na barra de opções da ferramenta.
+
+04. Escolha a cor #06071d abaixo e crie um retângulo.
+
+05. Vá em Filter> Render> Lighting Effects e defina os valores de su preferência.
+
+06. Pressione a letra D do teclado para resetar as cores de Foreground e Background para preto e branco, pressione a letra X do teclado para alternar as cores de Foreground e Background, sua cor de Foreground deve ser a branca, pressione a letra T do teclado para selecionar a Horizontal Type Tool e escreva uma palavra qualquer, no caso deste tutorial inserimos a palavra TITANIUM.
+
+07. Agora vá em Layer> Layer Style> Gradient Overlay e defina os valores que mais lhe agradam.
+
+08. Pressione a letra T do teclado para selecionar a Horizontal Type Tool e adicione os números do cartão.
+
+09. Agora adicione o restante das informações básicas de um cartão adicionando data de validade, logo, agência etc.
+
+10. (Opcional) Agora pressione a letra M do teclado para selecionar a Elliptical Marquee Tool, pressione Ctrl+Shift+Alt+N para criar uma nova layer, com a tecla Shift pressionada clique e arraste para criar um seleção circular, pressione a letra D do teclado para resetar as cores de Foreground e Background para preto e branco, pressione Alt+Backspace (a tecla acima do Enter) ou pressione a letra G do teclado para selecionar a Paint Bucket Tool e clique dentro da seleção para preencher a layer com a cor preta, vá em Layer> Layer Style> Stroke e defina os valores abaixo, pressione Ctrl+J para duplicar a layer, pressione Ctrl+T para abrir a caixa de Free Transform, com a tecla Shift pressionada clique e arraste para redimensionar a cópia do circulo, pressione Enter para finalizar a transformação, repita o procedimento e deixe seu cartão como o da foto abaixo.
+
+11. Clique na layer do retângulo (cartão), pressione Ctrl+Shift+Alt+N para criar uma nova layer, escolha a cor #666666, pressione a letra B do teclado para selecionar a Brush Tool, escolha um brush no estilo Swirl e aplique com na foto abaixo, defina a opacidade da layer em 41%.
+
+12. Pressione Ctrl+Shift+Alt+N para criar uma nova layer, pressione a letra B do teclado para selecionar a Brush Tool e adicione mais alguns brushes como na foto abaixo, defina o valor de opacidade da layer em 14%.
+
+13. Clique na layer Background, pressione a letra U do teclado para selecionar a Rectangle Tool, crie um retângulo do tamanho do documento, vá em Layer> Layer Style> Gradient Overlay e defina os valors abaixo.
+
+14. Agora clique na layer do retângulo (cartão), mantenha a tecla Shift pressionada e clique na layer que está no topo da paleta de layers para selecionar todas as layers que compõem o cartão, pressione Ctrl+G para agrupar todas as layers dentro de um folder, pressione Ctrl+T para abrir a caixa de Free Transform, clique com o botão direito do mouse dentro da caixa de Free Transform e escolha a opção Perspective, distorça o cartão como na foto abaixo e pressione Enter para finalizar a transformação.
+
+15. Pressione Ctrl+E para mesclar todas as layers, pressione Ctrl+J para duplicar a layer, pressione Ctrl+U para abrir a caixa de Hue/Saturation, aumente o valor de Lightness para +100, sua imagem deverá ficar branca, deixe esta layer abaixo da layer do cartão, pressione a seta direcional para direita duas vezes, pressione Ctrl+J para duplicar a layer e pressione a seta direcional do teclado uma vez para a esquerda.
+
+16. Clique na layer do cartão e pressione Ctrl+E duas vezes para mesclar todas as layers, pressione Ctrl+J para duplicar a layer, pressione Ctrl+T para abrir a caixa de Free Transform, clique com o botão direito do mouse sobre a layer e escolha a opção Flip Vertical.
+
+17. Clique novamente com o botão direito do mouse dentro da caixa de Free Transfom e escolha a opção Distort, distorça a cópia do cartão como na foto abaixo e pressione Enter para finalizar a transformação.
+
+18. Defina a opacidade da layer em 20%.
+
+19. Clique na layer Background, escolha a cor #003333, pressione a letra M do teclado para selecionar a Rectangular Marquee Tool, crie uma seleção retângular que cubra a metade superior do documento, pressione Ctrl+Shift+AltN para criar uma nova layer, pressione Alt+Backspace (a tecla acima do Enter) ou pressione a letra G do teclado para selecionar a Paint Bucket Tool e clique dentro da seleção para preencher com a cor escolhida.
+
+20. Vá em Filter> Noise> Add Noise e defina os valores de acordo com sua preferência.
+
+21. Vá em Filter> Render> Lighting Effects e defina os valores que lhe agradam.
+
+22. No final seu cartão estará pronto.
