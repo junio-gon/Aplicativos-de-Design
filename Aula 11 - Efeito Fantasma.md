@@ -1,3 +1,4 @@
+<html>
 1. Abra uma imagem de sua preferência.
 
 2. Duplique a camada da imagem.
@@ -8,4 +9,5 @@
 
 5. Na outra camada, selecione o efeito multiply e diminua a opacidade e o fill da maneira que mais lhe agradar.
 
-Está feito!
+<strong>Está feito!</strong>
+</html>
